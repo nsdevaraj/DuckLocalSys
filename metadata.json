@@ -1,0 +1,6 @@
+{
+  "name": "Dual DuckDB Local-First System",
+  "description": "Local-first collaborative platform with Git-backed commit log, dual DuckDB, client-side encryption at rest, and WebSocket sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a03deb1cea27bc08f5693886de90f63a05492d0c0ffde1cb4213e5c4abc634e6",
+  "parent_ids": [
+    "genesis-0000000000000000000000000000000000000000000000000000000000000000"
+  ],
+  "timestamp": "2026-09-20T12:31:05.446Z",
+  "actor": {
+    "user_id": "usr-contrib-03",
+    "display_name": "Alex Rivera (Contributor)"
+  },
+  "operation": "create",
+  "entity_type": "dataset_record",
+  "entity_id": "rec-test-01",
+  "payload": {
+    "code": "TEST-99",
+    "title": "Test Audit Entry",
+    "category": "Finance",
+    "region": "EMEA",
+    "metric_value": 500000,
+    "status": "active"
+  },
+  "previous_version": "genesis",
+  "signature": "b616b2e783e2327cd3ca3e246efb123cb110b716828532d7c4d620f6f16f2248"
+}
